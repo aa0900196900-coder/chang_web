@@ -4,7 +4,7 @@ body{
 table{
     font-size: 17px;
     border-collapse: collapse;
-    width: 100%;
+    width: 70%;
 }
 th,td{
     border: 1px solid #333;
