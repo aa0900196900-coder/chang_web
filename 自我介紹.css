@@ -31,7 +31,7 @@ p {
     letter-spacing: 0.5px;
 }
 a{
-    font-size: 30px;
+    font-size: 20px;
 }
 .second-image{
     margin-top: -160px;    /* 往上推開 30 像素（讓圖片往下移） */
