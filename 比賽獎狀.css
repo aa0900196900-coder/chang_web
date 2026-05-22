@@ -22,6 +22,14 @@ a{
     
 
 }
+.second1-image{
+    margin-top: 0px;    /* 往上推開 30 像素（讓圖片往下移） */
+    margin-left: 30px;
+    width: 420px;           /* 1. 限制圖片寬度為 200 像素 */
+    height: 330px;          /* 2. 限制圖片高度為 200 像素 */
+    
+
+}
 table{
     font-size: 17px;
     border-collapse: collapse;
