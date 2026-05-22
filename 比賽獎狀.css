@@ -1,0 +1,24 @@
+body{
+    background-color: azure;
+}
+.profile-img {
+    margin-top: 40px;    /* 往上推開 30 像素（讓圖片往下移） */
+    margin-left: 150px; /* 往下推開 40 像素（讓卡片往下移） */
+    width: 350px;           /* 1. 限制圖片寬度為 200 像素 */
+    height: 420px;          /* 2. 限制圖片高度為 200 像素 */
+    
+   /* object-fit: cover;      /* 3. 關鍵：保持圖片比例，多餘的會被裁切，臉才不會變形 */
+    
+    /*border-radius: 50%;     /* 4. 選填：如果你想把照片變成「圓形大頭貼」可以加這行 */
+}
+a{
+    font-size: 20px;
+}
+.second-image{
+    margin-top: -180px;    /* 往上推開 30 像素（讓圖片往下移） */
+    margin-left: 520px;
+    width: 350px;           /* 1. 限制圖片寬度為 200 像素 */
+    height: 420px;          /* 2. 限制圖片高度為 200 像素 */
+    
+
+}
