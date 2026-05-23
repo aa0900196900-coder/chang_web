@@ -12,6 +12,7 @@ body{
     /*border-radius: 50%;     /* 4. 選填：如果你想把照片變成「圓形大頭貼」可以加這行 */
 }
 a{
+    margin-left: 12px;
     font-size: 20px;
 }
 .second-image{
