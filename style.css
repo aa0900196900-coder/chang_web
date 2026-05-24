@@ -24,8 +24,9 @@ body {
     width: 50%;
 }
 .card {
+    line-height: 1.6;
     background:wheat ;      /* 白色卡片 */
-    padding: 80px;
+    padding: 40px;
     font-size: 30px;
     border-radius: 15px;      /* 圓角 */
     box-shadow: 0 4px 10px rgba(0,0,0,0.1); /* 陰影 */
